@@ -2033,7 +2033,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [[package]]
 name = "winit"
 version = "0.20.0"
-source = "git+https://github.com/filnet/winit?branch=fix-panic-at-redraw-event-in-non-redraw-phase#1ddd984bdbec45e5345632e0999851c47f2b372d"
+source = "git+https://github.com/filnet/winit?branch=fix-panic-at-redraw-event-in-non-redraw-phase#277e3527fe21d975b7fa8adf7b26040a2201ed27"
 dependencies = [
  "android_glue 0.2.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "bitflags 1.2.1 (registry+https://github.com/rust-lang/crates.io-index)",
